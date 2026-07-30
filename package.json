@@ -1,0 +1,20 @@
+{
+  "name": "task-tracker-cli",
+  "version": "1.0.0",
+  "description": "CLI застосунок для управління задачами",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "task-cli": "./index.js"
+  },
+  "keywords": [
+    "cli",
+    "crud",
+    "tasks"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}

@@ -93,4 +93,4 @@ Status accepts one of the following values: `todo`, `in-progress`, `done`.
 
 ## License
 
-ISC
+MIT

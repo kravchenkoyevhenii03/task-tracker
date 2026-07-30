@@ -2,6 +2,10 @@
 
 A simple command-line application for managing tasks (CRUD) — built with Node.js, no external dependencies. Data is stored locally in a `tasks.json` file.
 
+### About
+
+This project is an implementation of the [Task Tracker](https://roadmap.sh/projects/task-tracker) challenge from [roadmap.sh](https://roadmap.sh).
+
 ## Requirements
 
 - Node.js 18+ (uses `node:fs/promises`)
